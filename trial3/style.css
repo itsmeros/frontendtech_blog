@@ -1,0 +1,64 @@
+
+
+.pics{
+    height: 100px;
+    width: 115px;
+    align-items: center;
+}
+
+
+.iconbox{
+
+
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+    justify-content: space-between; 
+    width:auto;
+    background-color:lightblue ;
+
+}
+#mainbox{
+
+    border-style: solid ; 
+    border-color: blue;
+    border-width: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    align-items: center;
+    
+}
+
+
+.refer{
+    font-size: xx-large;
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+    justify-content: space-between; 
+    width:auto;
+    background-color:lightblue ;
+
+}
+.footpic{
+    height: 30px;
+    width: 40px;
+}
+
+
+.foot{
+    display: flex;
+    flex-direction: row;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.fe{
+    background-color: lightblue;
+}
+
+h1{
+    font-style: italic;
+    font-weight: 100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
